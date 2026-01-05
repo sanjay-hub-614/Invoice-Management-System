@@ -5,7 +5,7 @@
 
 <img width="1464" height="902" alt="Screenshot 2026-01-05 114242" src="https://github.com/user-attachments/assets/f8b82cd0-7546-45b3-8a5b-058b27ecc430" />
 <img width="832" height="510" alt="Screenshot 2026-01-05 114458" src="https://github.com/user-attachments/assets/a762e0d0-a76d-4f16-8d81-c33e1cc25f29" />
-<img width="1615" height="710" alt="Screenshot 2026-01-05 114214" src="https://github.com/user-attachments/assets/436e0883-de32-4578-a2fc-19a207f27371" />
+
 
 
 # Invoice Management System
